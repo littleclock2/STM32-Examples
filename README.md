@@ -37,3 +37,5 @@ STM32-Examples/
 
 
 ---
+
+Maintained by contributors.
